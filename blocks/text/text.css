@@ -1,0 +1,10 @@
+.text {
+    margin: 0;
+    padding: 0;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 90px;
+    color: #FFFFFF;
+    max-width: 75vw;
+    overflow-wrap: anywhere;
+}
